@@ -3,7 +3,7 @@
     <fullName>GearSet__c</fullName>
     <externalId>false</externalId>
     <label>GearSet</label>
-    <length>20</length>
+    <length>4</length>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Text</type>
